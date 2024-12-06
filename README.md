@@ -6,7 +6,7 @@
 
 ## Introduction
 
-This repository contains the source code for a **Multithreaded Reverse Proxy Server** built in C. The server acts as an intermediary for requests from clients seeking resources from backend servers. It efficiently handles multiple client requests simultaneously using multithreading, ensuring high performance and scalability.
+This repository contains the source code for a **Multithreaded Reverse Proxy Server** built in C. The server acts as an intermediary for requests from clients seeking resources from backend servers. It is just a basic verson, but we can make it much more advanced.
 
 ## Features
 
