@@ -1,4 +1,4 @@
-# Multi_threaded_reverse_proxyHere's a detailed README template for your "Multithreaded Reverse Proxy Server in C" project. You can customize it based on the specific features and implementation details of your project:
+# Multi_threaded_reverse_proxy
 
 ---
 
