@@ -1,6 +1,3 @@
-# Multi_threaded_reverse_proxy
-
----
 
 # Multithreaded Reverse Proxy Server in C
 
