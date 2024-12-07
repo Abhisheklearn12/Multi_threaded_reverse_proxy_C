@@ -53,7 +53,7 @@ Contributions are welcome! If you'd like to improve this project, feel free to s
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this software as per the terms of the license.
+This project is licensed under no License. You are free to use, modify, and distribute this software as per you.
 
 ## Acknowledgments
 
