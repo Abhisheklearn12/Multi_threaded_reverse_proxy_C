@@ -24,7 +24,7 @@ Before running the project, ensure you have the following:
 - **C Compiler:** GCC or Clang.
 - **POSIX Threads (pthread):** Required for multithreading.
 - **Linux Environment:** Tested on Linux-based systems.
-- **Make:** For building the project.
+
 
 ## Installation and Setup (In progress)
 
