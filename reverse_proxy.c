@@ -23,7 +23,7 @@ void *handle_client(void *args) {
     int client_sock = client_args->client_sock;
 
     // Serve a static file (index.html)
-    const char *file_path = "/mnt/c/Users/Abhishek Kumar/Desktop/Multithreaded_reverse_proxy_in_c/index.html";
+    const char *file_path = "/mnt/c/Users/Abhishek Kumar/Desktop/Multithreaded_reverse_proxy_in_c/index.html";  //write your own path
     FILE *file = fopen(file_path, "r");
     if (!file) {
         perror("Failed to open file");
@@ -55,11 +55,6 @@ void *handle_client(void *args) {
 
     send(client_sock, response_header, strlen(response_header), 0);
     send(client_sock, file_buffer, file_size, 0);
-
-    // After solving some errors found in above
-    //Let's continue tomorrrow from here (ALL the best).
-
-    // Let's get started from here
 
     // Clean up and close the connection
     close(client_sock);
@@ -150,7 +145,3 @@ int main() {
 // Now let's write HTML code, to see the result.
 // Now open terminal
 
-// Finally prgram is successful, now close the port.
-// Here's the steps==>
-
-// Now port is closed, Hooray....
