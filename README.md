@@ -24,7 +24,7 @@ Before running the project, ensure you have the following:
 
 
 ## Installation and Setup (In progress)
-
+1. Build using WSL and VScode.
 
 
 ## How It Works
